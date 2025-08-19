@@ -1,6 +1,8 @@
-import cv2
-import os
+# Manipulacion de imagenes
 
+import cimpv2
+import os
+# tendremos instalar la liberaria pillow para tratar las imagenes "pip install pillow"
 from PIL import Image
 
 
